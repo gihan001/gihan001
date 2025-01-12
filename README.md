@@ -3,7 +3,28 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gihan001&label=Profile%20views&color=0e75b6&style=flat" alt="gihan001" /> </p>
 
+![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername?label=Stars&style=social)
+
+## 📊 GitHub Stats
+
+### 🏆 My GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox)
+
+### 🌟 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=issues&count_private=true&theme=radical)
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=radical)](https://git.io/streak-stats)
+
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=10&theme=radical)
+
+---
+
 - 🌱 I’m currently learning **OOP with Java**
+
+- 🧑‍🎓 I’m an Undergraduate at **University of Kelaniya**
 
 - 📫 How to reach me **gihan.nathage@gmail.com**
 
