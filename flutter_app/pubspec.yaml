@@ -1,0 +1,65 @@
+name: energy_monitor_app
+description: Production-grade energy monitoring app with BLE provisioning and Firebase backend
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+  
+  # BLE
+  flutter_blue_plus: ^1.31.11
+  permission_handler: ^11.1.0
+  
+  # Firebase
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+  firebase_auth: ^4.16.0
+  firebase_crashlytics: ^3.4.9
+  firebase_analytics: ^10.8.0
+  
+  # Charts
+  fl_chart: ^0.66.0
+  
+  # UI/UX
+  intl: ^0.18.1
+  
+  # Utilities
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  logger: ^2.0.2+1
+  connectivity_plus: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  
+  # Code Generation
+  build_runner: ^2.4.7
+  riverpod_generator: ^2.3.9
+  freezed: ^2.4.6
+  json_serializable: ^6.7.1
+  
+  # Testing
+  mocktail: ^1.0.2
+  
+  # Linting
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  
+  # Localization
+  generate: true
+  
+  assets:
+    - assets/images/

@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appTitle": "Energy Monitor",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "deviceList": "My Devices",
+  "@deviceList": {
+    "description": "Device list screen title"
+  },
+  "addDevice": "Add Device",
+  "@addDevice": {
+    "description": "Button to add a new device"
+  },
+  "noDevices": "No devices registered",
+  "@noDevices": {
+    "description": "Message when no devices are registered"
+  }
+}
